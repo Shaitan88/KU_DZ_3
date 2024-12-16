@@ -1,0 +1,15 @@
+# таблица констант
+[constants]
+constant1 = 123
+constant2 = true
+constant3 = "Red"
+
+# таблица переменных
+[dict]
+# это значение 1
+value1 = "Blue"
+# это значение 2
+value2 = 111
+value3 = "^constant2"
+value4 = "^constant3"
+value5 = "^notExist"
